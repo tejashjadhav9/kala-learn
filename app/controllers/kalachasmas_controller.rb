@@ -1,0 +1,2 @@
+class KalachasmasController < ApplicationController
+end
